@@ -1,4 +1,4 @@
 # IHM
-Ejercicio de la categra Interfaz Hombre-Maquina.
+Ejercicios prácticos de la categra Interfaz Hombre-Maquina.
 
 

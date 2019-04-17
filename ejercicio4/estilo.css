@@ -1,0 +1,32 @@
+#bienvenida{
+	margin: 4em;
+	text-align-last: center;
+	margin-top: 2em;
+}
+
+#logo{
+	width: 6em;
+	height: 6em;
+}
+
+#marcador{
+	width: 1.3em;
+	height: 2em;
+}
+
+main{
+	margin: 4em;
+	text-align-last: center;
+}
+
+table​ {
+	width: 100;
+	border​ : ​ 4em​ ​ solid​ ​ black​ ;
+	border-collapse​ : ​ collapse​ ;
+}
+td​ {
+border​ : ​ 1em solid​ ​ black
+}
+th​ {
+border​ : ​ 1em​ ​ solid​ ​ black
+}

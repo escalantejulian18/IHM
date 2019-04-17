@@ -10,23 +10,21 @@
 }
 
 #marcador{
-	width: 1.3em;
-	height: 2em;
+	width: 0.7em;
+	height: 1em;
 }
 
 main{
 	margin: 4em;
-	text-align-last: center;
 }
 
 table​ {
-	width: 100;
+	width: 100%;
 	border​ : ​ 4em​ ​ solid​ ​ black​ ;
 	border-collapse​ : ​ collapse​ ;
 }
-td​ {
-border​ : ​ 1em solid​ ​ black
-}
-th​ {
-border​ : ​ 1em​ ​ solid​ ​ black
+td,th,tr​ {
+	width: 25%;
+    text-align: left;
+	border​ : ​ 1em solid​ ​ black
 }

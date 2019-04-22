@@ -1,9 +1,3 @@
-#bienvenida{
-	margin: 4em;
-	text-align-last: center;
-	margin-top: 2em;
-}
-
 #logo{
 	width: 6em;
 	height: 6em;
@@ -12,6 +6,17 @@
 #marcador{
 	width: 0.7em;
 	height: 1em;
+}
+
+#vincimg{
+	width: 6em;
+	height: 6em;
+}
+ 
+header{
+	margin: 4em;
+	text-align-last: center;
+	margin-top: 2em;
 }
 
 main{
@@ -28,3 +33,5 @@ td,th,tr​ {
     text-align: left;
 	border​ : ​ 1em solid​ ​ black
 }
+
+

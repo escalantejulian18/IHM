@@ -1,0 +1,48 @@
+#logo{
+	width: 6em;
+	height: 6em;
+}
+
+#marcador{
+	width: 0.7em;
+	height: 1em;
+}
+
+#vincimg{
+	width: 6em;
+	height: 6em;
+}
+
+.video-responsive {
+	text-align-last: center;
+	position: relative;
+	padding-bottom: 20%;
+	padding-top: 1em; 
+	height: 0;
+	overflow: hidden;
+}
+
+
+ 
+header{
+	margin: 4em;
+	text-align-last: center;
+	margin-top: 2em;
+}
+
+main{
+	margin: 4em;
+}
+
+table​ {
+	width: 100%;
+	border​ : ​ 4em​ ​ solid​ ​ black​ ;
+	border-collapse​ : ​ collapse​ ;
+}
+td,th,tr​ {
+	width: 25%;
+    text-align: left;
+	border​ : ​ 1em solid​ ​ black
+}
+
+
